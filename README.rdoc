@@ -37,7 +37,7 @@ Uno entre <tt>:habitual</tt>, <tt>:perfecto</tt>, <tt>:perfective</tt>, <tt>:pro
 
 Vea más abajo para una guía de aspectos de verbos.
 
-=== <tt>:mood</tt>
+=== <tt>:modo</tt>
 
 Uno entre <tt>:indicative</tt>, <tt>:imperative</tt>, o <tt>:subjuntivo</tt>. Se asume <tt>:indicative</tt>.
 
